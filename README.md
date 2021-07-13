@@ -28,5 +28,21 @@ jupyter notebook
 
 
 
+###### **nbviewer上浏览jupyter notebook:
+
+task1:
+
+ https://nbviewer.jupyter.org/github/jiayu1011/CollegeApplicationGuidance/blob/master/MajorHotRanking.ipynb
+
+task2:
+
+https://nbviewer.jupyter.org/github/jiayu1011/CollegeApplicationGuidance/blob/master/FillingMissingAdmissionData.ipynb
+
+task3:
+
+https://nbviewer.jupyter.org/github/jiayu1011/CollegeApplicationGuidance/blob/master/CollegeApplicationGuiding.ipynb
+
+
+
 **Design by jiayu1011, WHU in 2021.07**
 
